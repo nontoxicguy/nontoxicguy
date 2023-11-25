@@ -3,4 +3,4 @@ Started out with Roblox Studio, so I know lua (I know luau is not the same as lu
 Tried python and it's mid.
 I really like C# though, started it with Unity (game engine).
 
-Finding a good open-sourced on Github project is pretty hard :(
+Finding a good open-sourced on Github project that isn't that big so it's readable is pretty hard :(
